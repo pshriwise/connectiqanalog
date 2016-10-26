@@ -1,0 +1,6 @@
+<resources>
+    <fonts>
+        <font id="id_font_black_diamond" filename="fonts/blackdiamond.fnt" filter="0123456789"/>
+    </fonts>
+    <bitmap id="id_alarmicon" filename="images/alarmclock.png"></bitmap>
+    <bitmap id="id_notificationicon" filename="images/notificationicon.png"></bitmap></resources>

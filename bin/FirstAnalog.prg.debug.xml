@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="25" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="26" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="27" pc="268435478" symbol="initialize"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="30" pc="268435508" symbol="onLayout"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="31" pc="268435512" symbol="onLayout"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="32" pc="268435555" symbol="onLayout"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="33" pc="268435579" symbol="onLayout"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="35" pc="268435625" symbol="onLayout"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="44" pc="268435635" symbol="drawHand"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="45" pc="268435639" symbol="drawHand"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="46" pc="268435653" symbol="drawHand"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="47" pc="268435672" symbol="drawHand"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="48" pc="268435691" symbol="drawHand"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="49" pc="268435723" symbol="drawHand"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="52" pc="268435755" symbol="drawHand"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="53" pc="268435779" symbol="drawHand"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="54" pc="268435810" symbol="drawHand"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="55" pc="268435841" symbol="drawHand"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="59" pc="268435891" symbol="drawHand"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="60" pc="268435905" symbol="drawHand"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="66" pc="268435920" symbol="drawHourHand"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="68" pc="268435924" symbol="drawHourHand"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="69" pc="268435931" symbol="drawHourHand"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="72" pc="268435938" symbol="drawHourHand"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="74" pc="268436149" symbol="drawHourHand"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="77" pc="268436347" symbol="drawHourHand"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="78" pc="268436383" symbol="drawHourHand"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="79" pc="268436401" symbol="drawHourHand"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="80" pc="268436437" symbol="drawHourHand"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="86" pc="268436456" symbol="drawMinuteHand"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="89" pc="268436460" symbol="drawMinuteHand"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="90" pc="268436467" symbol="drawMinuteHand"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="93" pc="268436474" symbol="drawMinuteHand"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="95" pc="268436685" symbol="drawMinuteHand"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="98" pc="268436883" symbol="drawMinuteHand"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="99" pc="268436919" symbol="drawMinuteHand"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="100" pc="268436937" symbol="drawMinuteHand"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="101" pc="268436973" symbol="drawMinuteHand"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="107" pc="268436992" symbol="drawSecondHand"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="109" pc="268436996" symbol="drawSecondHand"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="110" pc="268437003" symbol="drawSecondHand"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="112" pc="268437010" symbol="drawSecondHand"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="114" pc="268437184" symbol="drawSecondHand"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="115" pc="268437220" symbol="drawSecondHand"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="118" pc="268437239" symbol="drawNotificationCount"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="119" pc="268437243" symbol="drawNotificationCount"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="120" pc="268437266" symbol="drawNotificationCount"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="121" pc="268437277" symbol="drawNotificationCount"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="122" pc="268437299" symbol="drawNotificationCount"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="123" pc="268437318" symbol="drawNotificationCount"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="124" pc="268437331" symbol="drawNotificationCount"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="125" pc="268437344" symbol="drawNotificationCount"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="126" pc="268437354" symbol="drawNotificationCount"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="127" pc="268437361" symbol="drawNotificationCount"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="128" pc="268437399" symbol="drawNotificationCount"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="129" pc="268437435" symbol="drawNotificationCount"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="130" pc="268437465" symbol="drawNotificationCount"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="131" pc="268437501" symbol="drawNotificationCount"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="135" pc="268437547" symbol="drawAlarm"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="136" pc="268437551" symbol="drawAlarm"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="138" pc="268437581" symbol="drawAlarm"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="139" pc="268437603" symbol="drawAlarm"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="140" pc="268437622" symbol="drawAlarm"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="141" pc="268437647" symbol="drawAlarm"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="142" pc="268437654" symbol="drawAlarm"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="145" pc="268437676" symbol="drawBluetooth"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="147" pc="268437680" symbol="drawBluetooth"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="148" pc="268437716" symbol="drawBluetooth"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="150" pc="268437740" symbol="drawBluetooth"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="151" pc="268437753" symbol="drawBluetooth"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="153" pc="268437766" symbol="drawBluetooth"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="154" pc="268437782" symbol="drawBluetooth"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="155" pc="268437789" symbol="drawBluetooth"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="156" pc="268437796" symbol="drawBluetooth"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="157" pc="268437803" symbol="drawBluetooth"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="159" pc="268437820" symbol="drawBluetooth"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="160" pc="268437858" symbol="drawBluetooth"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="161" pc="268437899" symbol="drawBluetooth"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="162" pc="268437943" symbol="drawBluetooth"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="163" pc="268437984" symbol="drawBluetooth"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="170" pc="268438032" symbol="drawMoveArc"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="171" pc="268438036" symbol="drawMoveArc"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="172" pc="268438068" symbol="drawMoveArc"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="173" pc="268438094" symbol="drawMoveArc"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="174" pc="268438107" symbol="drawMoveArc"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="175" pc="268438127" symbol="drawMoveArc"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="176" pc="268438181" symbol="drawMoveArc"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="177" pc="268438194" symbol="drawMoveArc"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="177" pc="268438205" symbol="drawMoveArc"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="178" pc="268438215" symbol="drawMoveArc"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="178" pc="268438226" symbol="drawMoveArc"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="179" pc="268438236" symbol="drawMoveArc"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="181" pc="268438249" symbol="drawMoveArc"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="181" pc="268438260" symbol="drawMoveArc"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="182" pc="268438299" symbol="drawMoveArc"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="184" pc="268438335" symbol="drawMoveArc"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="185" pc="268438352" symbol="drawMoveArc"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="191" pc="268438422" symbol="drawStepArc"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="192" pc="268438426" symbol="drawStepArc"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="193" pc="268438452" symbol="drawStepArc"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="194" pc="268438478" symbol="drawStepArc"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="195" pc="268438491" symbol="drawStepArc"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="196" pc="268438511" symbol="drawStepArc"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="197" pc="268438574" symbol="drawStepArc"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="198" pc="268438587" symbol="drawStepArc"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="198" pc="268438598" symbol="drawStepArc"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="199" pc="268438608" symbol="drawStepArc"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="199" pc="268438619" symbol="drawStepArc"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="200" pc="268438629" symbol="drawStepArc"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="202" pc="268438642" symbol="drawStepArc"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="202" pc="268438653" symbol="drawStepArc"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="203" pc="268438692" symbol="drawStepArc"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="205" pc="268438728" symbol="drawStepArc"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="206" pc="268438745" symbol="drawStepArc"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="211" pc="268438815" symbol="drawHashMarks"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="213" pc="268438819" symbol="drawHashMarks"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="214" pc="268438855" symbol="drawHashMarks"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="215" pc="268438868" symbol="drawHashMarks"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="218" pc="268438881" symbol="drawHashMarks"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="219" pc="268438905" symbol="drawHashMarks"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="220" pc="268438905" symbol="drawHashMarks"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="221" pc="268438905" symbol="drawHashMarks"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="222" pc="268438915" symbol="drawHashMarks"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="224" pc="268438925" symbol="drawHashMarks"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="225" pc="268438943" symbol="drawHashMarks"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="228" pc="268438966" symbol="drawHashMarks"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="229" pc="268438983" symbol="drawHashMarks"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="232" pc="268439003" symbol="drawHashMarks"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="235" pc="268439020" symbol="drawHashMarks"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="236" pc="268439058" symbol="drawHashMarks"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="237" pc="268439086" symbol="drawHashMarks"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="238" pc="268439108" symbol="drawHashMarks"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="239" pc="268439136" symbol="drawHashMarks"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="242" pc="268439161" symbol="drawHashMarks"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="243" pc="268439183" symbol="drawHashMarks"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="244" pc="268439205" symbol="drawHashMarks"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="245" pc="268439227" symbol="drawHashMarks"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="247" pc="268439249" symbol="drawHashMarks"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="247" pc="268439256" symbol="drawHashMarks"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="248" pc="268439263" symbol="drawHashMarks"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="248" pc="268439270" symbol="drawHashMarks"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="249" pc="268439277" symbol="drawHashMarks"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="252" pc="268439313" symbol="drawHashMarks"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="253" pc="268439382" symbol="drawHashMarks"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="254" pc="268439406" symbol="drawHashMarks"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="255" pc="268439431" symbol="drawHashMarks"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="257" pc="268439447" symbol="drawHashMarks"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="259" pc="268439643" symbol="drawHashMarks"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="265" pc="268439865" symbol="drawBatt"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="266" pc="268439869" symbol="drawBatt"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="268" pc="268439901" symbol="drawBatt"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="269" pc="268439926" symbol="drawBatt"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="272" pc="268439976" symbol="drawBatt"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="275" pc="268440015" symbol="drawBatt"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="277" pc="268440051" symbol="drawBatt"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="278" pc="268440089" symbol="drawBatt"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="282" pc="268440174" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="283" pc="268440178" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="284" pc="268440178" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="285" pc="268440178" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="286" pc="268440191" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="287" pc="268440208" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="288" pc="268440208" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="290" pc="268440208" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="291" pc="268440221" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="293" pc="268440234" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="294" pc="268440251" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="296" pc="268440282" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="299" pc="268440358" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="300" pc="268440370" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="301" pc="268440406" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="304" pc="268440450" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="305" pc="268440486" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="306" pc="268440540" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="307" pc="268440603" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="308" pc="268440660" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="311" pc="268440720" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="314" pc="268440780" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="317" pc="268440794" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="319" pc="268440808" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="321" pc="268440822" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="323" pc="268440836" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="325" pc="268440850" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="327" pc="268440864" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="330" pc="268440878" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="331" pc="268440909" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="332" pc="268440925" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="333" pc="268440948" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="336" pc="268440964" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="337" pc="268440999" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="347" pc="268441015" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="348" pc="268441051" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="350" pc="268441084" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="351" pc="268441120" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="352" pc="268441153" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="353" pc="268441189" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="356" pc="268441223" symbol="onEnterSleep"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="358" pc="268441227" symbol="onEnterSleep"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="361" pc="268441244" symbol="onExitSleep"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogView.mc" lineNum="362" pc="268441248" symbol="onExitSleep"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogGoalView.mc" lineNum="20" pc="268441259" symbol="initialize"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogGoalView.mc" lineNum="21" pc="268441263" symbol="initialize"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogGoalView.mc" lineNum="22" pc="268441281" symbol="initialize"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogGoalView.mc" lineNum="24" pc="268441310" symbol="initialize"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogGoalView.mc" lineNum="26" pc="268441323" symbol="initialize"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogGoalView.mc" lineNum="27" pc="268441341" symbol="initialize"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogGoalView.mc" lineNum="30" pc="268441384" symbol="initialize"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogGoalView.mc" lineNum="33" pc="268441427" symbol="initialize"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogGoalView.mc" lineNum="38" pc="268441453" symbol="onLayout"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogGoalView.mc" lineNum="41" pc="268441458" symbol="onShow"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogGoalView.mc" lineNum="45" pc="268441463" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogGoalView.mc" lineNum="46" pc="268441467" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogGoalView.mc" lineNum="47" pc="268441467" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogGoalView.mc" lineNum="48" pc="268441467" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogGoalView.mc" lineNum="50" pc="268441484" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogGoalView.mc" lineNum="51" pc="268441497" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogGoalView.mc" lineNum="53" pc="268441510" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogGoalView.mc" lineNum="54" pc="268441527" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogGoalView.mc" lineNum="56" pc="268441558" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogGoalView.mc" lineNum="59" pc="268441634" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogGoalView.mc" lineNum="60" pc="268441670" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogGoalView.mc" lineNum="63" pc="268441696" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogGoalView.mc" lineNum="64" pc="268441732" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogGoalView.mc" lineNum="67" pc="268441901" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogGoalView.mc" lineNum="68" pc="268441937" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogGoalView.mc" lineNum="71" pc="268441991" symbol="onUpdate"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogApp.mc" lineNum="11" pc="268442052" symbol="initialize"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogApp.mc" lineNum="12" pc="268442056" symbol="initialize"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogApp.mc" lineNum="15" pc="268442075" symbol="onStart"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogApp.mc" lineNum="18" pc="268442080" symbol="onStop"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogApp.mc" lineNum="21" pc="268442085" symbol="getInitialView"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogApp.mc" lineNum="22" pc="268442089" symbol="getInitialView"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogApp.mc" lineNum="25" pc="268442127" symbol="getGoalView"/>
+<entry filename="/Users/patrickshriwise/opt/connectiq/samples/Analog/source/AnalogApp.mc" lineNum="26" pc="268442131" symbol="getGoalView"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="9" object="true" symbol="AnalogGoalView"/>
+<entry id="8" object="true" symbol="AnalogView"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388645" symbol="Time"/>
+<entry field="true" id="13" symbol="DoNotDisturbIcon"/>
+<entry field="true" id="14" symbol="AlarmIcon"/>
+<entry id="26" method="true" symbol="drawSecondHand"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="24" method="true" symbol="drawHourHand"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" symbol="Lang"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry field="true" id="16" symbol="id_notificationicon"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8389916" method="true" symbol="getGoalView"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="19" symbol="AppName"/>
+<entry id="27" method="true" symbol="drawNotificationCount"/>
+<entry id="23" method="true" symbol="drawHand"/>
+<entry field="true" id="15" symbol="id_alarmicon"/>
+<entry id="28" method="true" symbol="drawAlarm"/>
+<entry id="8388641" symbol="Math"/>
+<entry field="true" id="22" symbol="dndIcon"/>
+<entry field="true" id="17" symbol="LauncherIcon"/>
+<entry id="8389795" symbol="doNotDisturb"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="33" method="true" symbol="drawBatt"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="8389670" symbol="screenShape"/>
+<entry field="true" id="20" symbol="goalString"/>
+<entry id="25" method="true" symbol="drawMinuteHand"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="8389348" symbol="font"/>
+<entry id="32" method="true" symbol="drawHashMarks"/>
+<entry field="true" id="21" symbol="isAwake"/>
+<entry id="10" object="true" symbol="AnalogWatch"/>
+<entry id="12" module="true" symbol="Layouts"/>
+<entry id="30" method="true" symbol="drawMoveArc"/>
+<entry id="11" module="true" symbol="Menus"/>
+<entry id="31" method="true" symbol="drawStepArc"/>
+<entry field="true" id="18" symbol="id_font_black_diamond"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="29" method="true" symbol="drawBluetooth"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435878" name="x" stackId="10" startPc="268435779"/>
+<entry endPc="268435878" name="y" stackId="11" startPc="268435779"/>
+<entry endPc="268435891" name="i" stackId="9" startPc="268435779"/>
+<entry endPc="268435919" name="result" stackId="4" startPc="268435639"/>
+<entry endPc="268435919" name="sin" stackId="8" startPc="268435639"/>
+<entry endPc="268435919" name="cos" stackId="7" startPc="268435639"/>
+<entry endPc="268435919" name="centerY" stackId="6" startPc="268435639"/>
+<entry endPc="268435919" name="centerX" stackId="5" startPc="268435639"/>
+<entry endPc="268436455" name="width" stackId="4" startPc="268435924"/>
+<entry endPc="268436455" name="coords_inner" stackId="6" startPc="268435924"/>
+<entry endPc="268436455" name="length" stackId="3" startPc="268435924"/>
+<entry endPc="268436455" name="coords_outer" stackId="5" startPc="268435924"/>
+<entry endPc="268436991" name="width" stackId="4" startPc="268436460"/>
+<entry endPc="268436991" name="coords_inner" stackId="6" startPc="268436460"/>
+<entry endPc="268436991" name="length" stackId="3" startPc="268436460"/>
+<entry endPc="268436991" name="coords_outer" stackId="5" startPc="268436460"/>
+<entry endPc="268437238" name="width" stackId="4" startPc="268436996"/>
+<entry endPc="268437238" name="length" stackId="3" startPc="268436996"/>
+<entry endPc="268437238" name="coords" stackId="5" startPc="268436996"/>
+<entry endPc="268437543" name="height" stackId="6" startPc="268437277"/>
+<entry endPc="268437543" name="ycenter" stackId="8" startPc="268437277"/>
+<entry endPc="268437543" name="noteStr" stackId="9" startPc="268437277"/>
+<entry endPc="268437543" name="width" stackId="5" startPc="268437277"/>
+<entry endPc="268437543" name="bitmap" stackId="4" startPc="268437277"/>
+<entry endPc="268437543" name="xcenter" stackId="7" startPc="268437277"/>
+<entry endPc="268437543" name="notifyimage" stackId="3" startPc="268437277"/>
+<entry endPc="268437546" name="numNotes" stackId="2" startPc="268437243"/>
+<entry endPc="268437672" name="ycenter" stackId="5" startPc="268437581"/>
+<entry endPc="268437672" name="alarmimage" stackId="2" startPc="268437581"/>
+<entry endPc="268437672" name="bitmap" stackId="3" startPc="268437581"/>
+<entry endPc="268437672" name="xcenter" stackId="4" startPc="268437581"/>
+<entry endPc="268438028" name="height" stackId="3" startPc="268437740"/>
+<entry endPc="268438028" name="ycenter" stackId="5" startPc="268437740"/>
+<entry endPc="268438028" name="symbolHeight" stackId="7" startPc="268437740"/>
+<entry endPc="268438028" name="width" stackId="2" startPc="268437740"/>
+<entry endPc="268438028" name="xoffset" stackId="6" startPc="268437740"/>
+<entry endPc="268438028" name="xcenter" stackId="4" startPc="268437740"/>
+<entry endPc="268438421" name="radius" stackId="4" startPc="268438036"/>
+<entry endPc="268438421" name="toDeg" stackId="5" startPc="268438036"/>
+<entry endPc="268438421" name="moveFrac" stackId="6" startPc="268438036"/>
+<entry endPc="268438421" name="endRad" stackId="3" startPc="268438036"/>
+<entry endPc="268438421" name="startRad" stackId="2" startPc="268438036"/>
+<entry endPc="268438814" name="radius" stackId="4" startPc="268438426"/>
+<entry endPc="268438814" name="toDeg" stackId="5" startPc="268438426"/>
+<entry endPc="268438814" name="endRad" stackId="3" startPc="268438426"/>
+<entry endPc="268438814" name="startRad" stackId="2" startPc="268438426"/>
+<entry endPc="268438814" name="stepFrac" stackId="6" startPc="268438426"/>
+<entry endPc="268439297" name="angle" stackId="11" startPc="268438943"/>
+<entry endPc="268439310" name="i" stackId="10" startPc="268438943"/>
+<entry endPc="268439310" name="eY" stackId="7" startPc="268438905"/>
+<entry endPc="268439310" name="eX" stackId="6" startPc="268438905"/>
+<entry endPc="268439310" name="innerRad" stackId="9" startPc="268438905"/>
+<entry endPc="268439310" name="outerRad" stackId="8" startPc="268438905"/>
+<entry endPc="268439310" name="sY" stackId="5" startPc="268438905"/>
+<entry endPc="268439310" name="sX" stackId="4" startPc="268438905"/>
+<entry endPc="268439851" name="upperX" stackId="15" startPc="268439406"/>
+<entry endPc="268439851" name="dx" stackId="14" startPc="268439406"/>
+<entry endPc="268439864" name="i" stackId="13" startPc="268439406"/>
+<entry endPc="268439864" name="coords" stackId="12" startPc="268439313"/>
+<entry endPc="268439864" name="height" stackId="3" startPc="268438819"/>
+<entry endPc="268439864" name="width" stackId="2" startPc="268438819"/>
+<entry endPc="268440173" name="batStr" stackId="3" startPc="268439869"/>
+<entry endPc="268440173" name="batval" stackId="2" startPc="268439869"/>
+<entry endPc="268441222" name="screenWidth" stackId="4" startPc="268440178"/>
+<entry endPc="268441222" name="hourHand" stackId="6" startPc="268440178"/>
+<entry endPc="268441222" name="width" stackId="2" startPc="268440178"/>
+<entry endPc="268441222" name="now" stackId="8" startPc="268440178"/>
+<entry endPc="268441222" name="info" stackId="9" startPc="268440178"/>
+<entry endPc="268441222" name="dateStr" stackId="10" startPc="268440178"/>
+<entry endPc="268441222" name="clockTime" stackId="5" startPc="268440178"/>
+<entry endPc="268441222" name="minuteHand" stackId="7" startPc="268440178"/>
+<entry endPc="268441222" name="height" stackId="3" startPc="268440178"/>
+<entry endPc="268442051" name="height" stackId="3" startPc="268441467"/>
+<entry endPc="268442051" name="dateStr" stackId="7" startPc="268441467"/>
+<entry endPc="268442051" name="now" stackId="5" startPc="268441467"/>
+<entry endPc="268442051" name="width" stackId="2" startPc="268441467"/>
+<entry endPc="268442051" name="clockTime" stackId="4" startPc="268441467"/>
+<entry endPc="268442051" name="info" stackId="6" startPc="268441467"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="AnalogView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="AnalogView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawHand" parent="AnalogView">
+<param id="dc"/>
+<param id="angle"/>
+<param id="coords"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawHourHand" parent="AnalogView">
+<param id="dc"/>
+<param id="angle"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawMinuteHand" parent="AnalogView">
+<param id="dc"/>
+<param id="angle"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawSecondHand" parent="AnalogView">
+<param id="dc"/>
+<param id="angle"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawNotificationCount" parent="AnalogView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawAlarm" parent="AnalogView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawBluetooth" parent="AnalogView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawMoveArc" parent="AnalogView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawStepArc" parent="AnalogView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawHashMarks" parent="AnalogView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawBatt" parent="AnalogView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="AnalogView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="AnalogView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="AnalogView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="AnalogGoalView">
+<param id="goal"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="AnalogGoalView">
+<documentation><![CDATA[<div class="description"> Load the resources required for the watch face<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onShow" parent="AnalogGoalView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="AnalogGoalView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the clock face graphics during update<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="AnalogWatch">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="AnalogWatch">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="AnalogWatch">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="AnalogWatch">
+<documentation/>
+</functionEntry>
+<functionEntry name="getGoalView" parent="AnalogWatch">
+<param id="goal"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

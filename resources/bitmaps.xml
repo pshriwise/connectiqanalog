@@ -1,0 +1,6 @@
+<resources>
+    <bitmap id="LauncherIcon" filename="images/icon.png" />
+    <bitmap id="DoNotDisturbIcon" filename="images/donotdisturb.png" /><bitmap
+    	filename="images/alarm-clock-icon-small.png" id="AlarmIcon">
+</bitmap>
+</resources>
